@@ -82,7 +82,7 @@ The Power BI dashboard (`.pbix`, linked separately) includes:
 4. Insurance providers contribute similar revenue shares ($276M–$284M each).
 5. The 65+ age group is the largest patient segment (29%), relevant for geriatric care planning.
 
-Full analysis and recommendations: [`reports/Business_Insights_Report.pdf`](reports/Business_Insights_Report.pdf)
+Full analysis and recommendations: reports/Healthcare_Analytics_Report.pdf
 
 ## 🚀 How to Run
 
