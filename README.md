@@ -30,7 +30,7 @@ healthcare-analytics-dashboard/
 ├── sql/
 │   └── healthcare_kpis.sql                     # KPI queries (schema + 10 analysis queries)
 ├── reports/
-│   ├── Business_Insights_Report.pdf            # Executive summary + recommendations
+│   ├── Healthcare_Analytics_Report.pdf             # Executive summary + recommendations
 │   └── charts/                                 # Chart images used in the report
 └── README.md
 ```
