@@ -72,7 +72,22 @@ The Power BI dashboard (`.pbix`, linked separately) includes:
 - Age & gender demographics
 - Filters: Year, Medical Condition, Admission Type, Insurance Provider
 
-*(Screenshot / live link to be added after publishing the dashboard.)*
+### 📊 Dashboard Preview
+
+#### 1. Overview
+![Overview Dashboard](reports/screenshots/01_Overview.png)
+
+#### 2. Patient Analysis
+![Patient Dashboard](reports/screenshots/02_Patients.png)
+
+#### 3. Doctor Analysis
+![Doctor Dashboard](reports/screenshots/03_Doctors.png)
+
+#### 4. Hospital Analysis
+![Hospital Dashboard](reports/screenshots/04_Hospitall.png)
+
+#### 5. Financial Analysis
+![Finance Dashboard](reports/screenshots/05_Finance.png)
 
 ## 💡 Key Insights
 
